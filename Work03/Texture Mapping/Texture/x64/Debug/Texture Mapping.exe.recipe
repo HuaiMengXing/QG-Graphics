@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\HuaiMeng\Desktop\QG图形组作业\Work03\Texture Mapping\x64\Debug\Texture Mapping.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\HuaiMeng\Desktop\QG图形组作业\Work03\Texture Mapping\Texture\HLSL\Basic_2D_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\HuaiMeng\Desktop\QG图形组作业\Work03\Texture Mapping\Texture\HLSL\Basic_2D_VS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\HuaiMeng\Desktop\QG图形组作业\Work03\Texture Mapping\Texture\HLSL\Basic_3D_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\HuaiMeng\Desktop\QG图形组作业\Work03\Texture Mapping\Texture\HLSL\Basic_3D_VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

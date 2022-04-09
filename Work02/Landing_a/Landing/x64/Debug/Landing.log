@@ -1,0 +1,13 @@
+﻿D:\vs\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Landing.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  compilation object save succeeded; see C:\Users\HuaiMeng\Desktop\QG图形组作业\Work02\Landing_a\Landing\HLSL\Cube_PS.cso
+  compilation object save succeeded; see C:\Users\HuaiMeng\Desktop\QG图形组作业\Work02\Landing_a\Landing\HLSL\Cube_VS.cso
+  d3dApp.cpp
+  d3dUtil.cpp
+  DXTrace.cpp
+  GameApp.cpp
+  GameTimer.cpp
+  Keyboard.cpp
+  Main.cpp
+  Mouse.cpp
+  正在生成代码...
+  Landing.vcxproj -> C:\Users\HuaiMeng\Desktop\QG图形组作业\Work02\Landing_a\x64\Debug\Landing_a.exe
